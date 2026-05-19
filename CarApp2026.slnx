@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CarApp2026.Core/CarApp2026.Core.csproj" />
+  <Project Path="CarApp2026.csproj" />
+</Solution>
